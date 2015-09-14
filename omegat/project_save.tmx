@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2_Ripplex" segtype="sentence" srclang="en-us"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.2" segtype="sentence" srclang="en-us"/>
   <body>
 <!-- Default translations -->
     <tu>
       <tuv lang="en-us">
         <seg>This is a file for testing.</seg>
       </tuv>
-      <tuv lang="ja-jp" changeid="amake" changedate="20150914T022940Z" creationid="amake" creationdate="20150914T022940Z">
-        <seg>test</seg>
+      <tuv lang="ja-jp" changeid="aaron" changedate="20150914T074046Z" creationid="amake" creationdate="20150914T022940Z">
+        <seg>test2</seg>
       </tuv>
     </tu>
     <tu>
