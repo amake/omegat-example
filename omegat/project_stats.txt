@@ -1,0 +1,14 @@
+9/14/15 9:19 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	       5	   41	                        160	                          196	     1	
+Remaining:       	       4	   36	                        144	                          176	     1	
+Unique:          	       5	   41	                        160	                          196	     1	
+Unique Remaining:	       4	   36	                        144	                          176	     1	
+
+
+Individual File Statistics:
+
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+test.txt 	             5	                 4	              5	                        4	         41	             36	          41	                    36	                              160	                                  144	                               160	                                         144	                                196	                                    176	                                 196	                                           176	
