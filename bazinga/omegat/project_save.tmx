@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.7.0_0_dev" segtype="sentence" srclang="en-us"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-us">
+        <seg>This is a file for testing.</seg>
+      </tuv>
+      <tuv lang="ja-jp" changeid="amake" changedate="20160317T050716Z" creationid="amake" creationdate="20150914T022940Z">
+        <seg>テスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-us">
+        <seg>This is a test file.</seg>
+      </tuv>
+      <tuv lang="ja-jp" changeid="amake" changedate="20150914T001945Z" creationid="amake" creationdate="20150914T001922Z">
+        <seg>テスト</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
