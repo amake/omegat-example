@@ -1,0 +1,2 @@
+file	ファイル
+blah	blahb	blahahh
