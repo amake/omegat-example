@@ -8,8 +8,8 @@
       <tuv lang="en-us">
         <seg>This is a file for testing.</seg>
       </tuv>
-      <tuv lang="ja-jp" changeid="amake" changedate="20160317T042608Z" creationid="amake" creationdate="20150914T022940Z">
-        <seg>test2 </seg>
+      <tuv lang="ja-jp" changeid="amake" changedate="20160317T050716Z" creationid="amake" creationdate="20150914T022940Z">
+        <seg>テスト</seg>
       </tuv>
     </tu>
     <tu>
